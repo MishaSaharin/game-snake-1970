@@ -1,8 +1,7 @@
-# snake
+# The Game Snake 1970
 
-https://javarush.com/projects/apps/352733
+- [x] to play [Snake](https://javarush.com/projects/apps/352733)
 
-Snake (Питон, Удав, Змейка, Червяк и др.) — компьютерная игра, уходящая корнями в системы 1970-х.
-Игрок управляет длинным, тонким существом, напоминающим змею, которое ползает по плоскости (как правило, ограниченной стенками), собирая еду (или другие предметы), избегая столкновения с собственным хвостом и краями игрового поля (существуют варианты где при прохождении через край змея выходит из противоположного края поля). Каждый раз, когда змея съедает кусок пищи, она становится длиннее, что постепенно усложняет игру.
-управление - клавиши со стрелками.
-клавиша пробел - рестарт.
+## The original Blockade from 1976 and its many clones are two-player games. Viewed from a top-down perspective, each player controls a "snake" with a fixed starting position. The "head" of the snake continually moves forward, unable to stop, growing ever longer. It must be steered left, right, up, and down to avoid hitting walls and the body of either snake. The player who survives the longest wins. Single-player versions are less prevalent and have one or more snakes controlled by the computer, as in the light cycles segment of the 1982 Tron arcade game. In the most common single-player game, the player's snake is of a certain length, so the tail also moves, and with every item "eaten" by the head of the snake the snake gets longer. Snake Byte has the snake eating apples. Nibbler has the snake eating abstract objects in a maze.
+
+## Snake (Питон, Удав, Змейка, Червяк и др.) — компьютерная игра, уходящая корнями в системы 1970-х. Игрок управляет длинным, тонким существом, напоминающим змею, которое ползает по плоскости (как правило, ограниченной стенками), собирая еду (или другие предметы), избегая столкновения с собственным хвостом и краями игрового поля (существуют варианты где при прохождении через край змея выходит из противоположного края поля). Каждый раз, когда змея съедает кусок пищи, она становится длиннее, что постепенно усложняет игру. управление - клавиши со стрелками. клавиша пробел - рестарт.
